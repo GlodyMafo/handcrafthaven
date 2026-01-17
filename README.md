@@ -1,37 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Handcrafted Haven 🧶✨
 
-## Getting Started
+## Overview
+Handcrafted Haven is a web application designed to provide a digital marketplace for artisans and crafters to showcase and sell their unique handcrafted items. The platform connects talented creators with customers who value creativity, authenticity, and sustainable consumption.
 
-First, run the development server:
+The application fosters a strong community by highlighting artisan stories, promoting handmade products, and encouraging meaningful interactions through reviews and ratings.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Project Objectives
+- Provide a platform for artisans to showcase and sell handcrafted products
+- Promote local craftsmanship and sustainable consumption
+- Offer a user-friendly and accessible shopping experience
+- Develop a full-stack web application using modern web technologies
+- Practice collaborative software development using Git and GitHub
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Core Features
+- **Seller Profiles**: Authenticated sellers can create and manage profiles, share their stories, and showcase their products.
+- **Product Listings**: Artisans can add products with images, descriptions, and pricing.
+- **Product Browsing & Filtering**: Users can browse products and filter by category, price range, and other criteria.
+- **Reviews & Ratings**: Users can leave ratings and written reviews on products.
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
+- **Accessibility**: Designed to meet WCAG 2.1 Level AA accessibility standards.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies Used
+### Front-End
+- HTML
+- CSS
+- JavaScript
+- **Next.js**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Back-End
+- **Node.js**
+- Database (to be determined)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Project Management & Deployment
+- Git & GitHub
+- GitHub Projects (Kanban Board)
+- **Vercel** (Deployment)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Design Guidelines
+- Consistent branding (colors, typography, layout)
+- Clear and intuitive navigation
+- Responsive and accessible UI
+- SEO and performance best practices
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# handcrafthaven
+---
+
+## Project Management
+- All tasks and user stories are managed using **GitHub Projects**
+- The team follows collaborative Git workflows and best practices
+- User stories and work items are continuously refined throughout the project
+
+---
+
+## Team Members
+- Mafo Kisanga Glody
+- Joy Oyaleke
+
+
+---
+
+## Deployment
+The application will be deployed using **Vercel** and made publicly accessible.
+
+---
+
+## Course Context
+This project is developed as part of a group assignment to:
+- Strengthen full-stack web development skills
+- Build professionalism and teamwork
+- Teach and learn collaboratively following the BYU-Idaho learning model
+
+---
+
+## License
+This project is developed for educational purposes.
