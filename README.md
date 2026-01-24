@@ -62,6 +62,7 @@ The application fosters a strong community by highlighting artisan stories, prom
 ## Team Members
 - Mafo Kisanga Glody
 - Joy Oyaleke
+- Sochima Ifedikwa
 
 
 ---
