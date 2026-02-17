@@ -20,10 +20,10 @@ export default function RegisterPage() {
     });
 
     if (res.ok) {
-      alert("Compte créé avec succès !");
+      alert("Account created successfully!");
       router.push("/login");
     } else {
-      alert("Erreur lors de l'inscription");
+      alert("Error during registration");
     }
   }
 
@@ -34,11 +34,11 @@ export default function RegisterPage() {
       <input type="password" placeholder="Mot de passe" value={password} onChange={(e) => setPassword(e.target.value)} className="border p-2" />
 
       <select className="border p-2" value={role} onChange={(e) => setRole(e.target.value)}>
-        <option value="USER">Acheteur</option>
-        <option value="SELLER">Vendeur</option>
+        <option value="USER">Buyer</option>
+        <option value="SELLER">Seller</option>
       </select>
 
-      <button className="bg-black text-white p-2 mt-2">Créer le compte</button>
+      <button className="bg-black text-white p-2 mt-2">Create Account</button>
     </form>
   );
 }
